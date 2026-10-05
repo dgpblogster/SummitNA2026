@@ -23,7 +23,7 @@ Copilot Studio gives you several ways to hand an agent a capability: connectors,
 | File | What it is |
 |---|---|
 | [`same-agent-two-architectures-deck.pptx`](same-agent-two-architectures/same-agent-two-architectures-deck.pptx) | The slide deck as presented |
-| [`same-agent-two-architectures-handout.pdf`](same-agent-two-architectures/same-agent-two-architectures-handout.pdf) | Printable handout of the slides *(being added before the session)* |
+| [`same-agent-two-architectures-handout.pdf`](same-agent-two-architectures/same-agent-two-architectures-handout.pdf) | Printable handout: three slides per page with space for notes, plus the demo question script |
 
 ### What the session covers
 
